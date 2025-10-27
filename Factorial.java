@@ -15,5 +15,5 @@ public static void main(String args[]) {
   int n = sc.nextInt();
   System.out.println("The factorial value is:");
   fact(n);
-}
-}
+} }
+
